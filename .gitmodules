@@ -1,0 +1,3 @@
+[submodule "modules/Presentations.Common"]
+	path = modules/Presentations.Common
+	url = git@github.com:vanNijnatten/Presentations.Common.git
